@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$basetexture "models/survivors/gambler/gambler_eyes" 
+$bumpmap "models/survivors/gambler/gambler_eye_ao"  
+$nodecal 1
+
+}
